@@ -1,0 +1,7 @@
+This database is based on game Dauntless by Phoenix Labs.
+It's main purpose is to allow creation and storage of loadouts for your character.
+Each loadout consists of weapon, lantern and one piece of each armour type (head, torso, arms, legs).
+Each of those items has from one to two sockets that allow allocation of cells. Every socket and cell 
+can be of one out of five types (Utility, Technique, Power, Defence, Mobility). 
+Socket can only hold a cell of the same type as the one it has.
+ 
